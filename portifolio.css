@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leonardo Pires Corteletti - Portfólio</title>
+    <link rel="stylesheet" href="portifolio.css">
+</head>
+<body>
+    <header>
+        <h1>Leonardo Pires Corteletti</h1>
+        <p>Estudante de Engenharia da Computação | UNIFOR</p>
+    </header>
+
+    <main>
+           <section id="sobre">
+    <h2>Sobre Mim</h2>
+    <p>Estou no 3º semestre de Engenharia da Computação na Unifor. Escolhi o curso pelas oportunidades de empregabilidade, pela diversificação de áreas de atuação e pelo retorno que ele proporciona — características que vejo como essenciais para construir uma carreira sólida e promissora.</p>
+    
+    <p>Ainda estou explorando as diversas áreas da computação para descobrir onde posso me encaixar melhor. Fora da faculdade, sou ex-atleta de vôlei e futsal (já fiz parte da seleção da minha escola) e gosto de praticar todos os tipos de esportes — o que me ensinou disciplina, trabalho em equipe e resiliência.</p>
+</section>
+        <section id="conhecimentos">
+            <h2>Conhecimentos</h2>
+            <ul>
+                <li>⚡ Iniciante em JavaScript</li>
+                <li>☕ Aprendiz de Java</li>
+                <li>🌐 Aprendendo HTML5</li>
+                <li>🎨 Aprendiz de CSS3</li>
+                <li>📊 Básico de Pacote Office</li>
+            </ul>
+        </section>
+
+        <section id="projetos">
+            <h2>Projetos</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Nome do Projeto</th>
+                        <th>Descrição</th>
+                        <th>Ano</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Oximars</td>
+                        <td>Como viver em marte usando 1 powerbank</td>
+                        <td>2025</td>
+                    </tr>
+                    <tr>
+                        <td>Melhoraria dos cursos de engenharias</td>
+                        <td>Como melhorar o curso de engenharia da Unifor</td>
+                        <td>2025</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section id="contato">
+            <h2>Contato</h2>
+            <div class="social-links">
+                <a href="mailto:leopctt@gmail.com" target="_blank" title="Enviar e-mail">
+                    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Ícone do Gmail">
+                </a>
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" title="Instagram">
+                    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Ícone do Instagram">
+                </a>
+                <!-- Sugestão: adicionar LinkedIn -->
+                <!-- <a href="#" target="_blank" title="LinkedIn">
+                    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Ícone do LinkedIn">
+                </a> -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Leonardo Pires Corteletti. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
